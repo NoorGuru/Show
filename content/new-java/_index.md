@@ -9,4 +9,4 @@ weight = 1
 
 ##### by: 'Mohammad Noor' AbuKhleif
 
-##### [noor.guru](https://www.noor.guru)
+##### [noor.sh](https://www.noor.sh)

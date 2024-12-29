@@ -12,8 +12,8 @@ weight = 1
 
 ##### by: 'Mohammad Noor' AbuKhleif
 
-##### [noor.guru](https://www.noor.guru)
-##### [@mohnoor94](https://go.noor.guru/twitter)
+##### [noor.sh](https://www.noor.sh)
+##### [@mohnoor94](https://go.noor.sh/twitter)
 ##### www.linkedin.com/in/mohnoor94/
 
-### {{% fragment %}} [go.noor.guru/tech-job](https://go.noor.guru/tech-job) {{% /fragment %}}
+### {{% fragment %}} [go.noor.sh/tech-job](https://go.noor.sh/tech-job) {{% /fragment %}}

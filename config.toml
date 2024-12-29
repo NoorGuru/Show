@@ -1,4 +1,4 @@
-baseURL = "https://present.noor.guru/"
+baseURL = "https://present.noor.sh/"
 languageCode = "en-us"
 title = "Noor | Show"
 theme = "reveal-hugo"
